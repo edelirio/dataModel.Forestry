@@ -18,5 +18,7 @@
     "fireRiskIndex": 0.1,
     "litterCoverage": 0.6,
     "relativeHumidity": 0.70,
-    "soilTemperature": 25
+    "soilTemperature": 25,
+    "greenLeavesDetected":0.5,
+    "dryLeavesDetected":0.2
   }
